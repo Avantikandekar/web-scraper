@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500px" src="https://i.ibb.co/t2QNh4R/Web-Scraping.png" alt="Web-Scraping" border="0">
+  <img width="500px" src="https://cdn.prod.website-files.com/5fd55aec9b6ceba1eec9f9fd/61932c032e0a0173df6d2377_What%20is%20Web%20Scraping.jpg" alt="Web-Scraping" border="0">
 </p>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.7.8-brightgreen.svg" />
@@ -137,17 +137,3 @@ with open(f"csv/csv_{format}.csv", "w") as f:
             csvwriter.writerow(row)
 ```
 
-## Limitation
-- The Python Web Scraper may not work on web pages with complex JavaScript-based content.
-- Some websites may have terms of service or robots.txt that prohibit scraping. Make sure to comply with any legal and ethical requirements.
-
-## Author
-
-👤 **Rohan Bhautoo**
-
-* Github: [@rohan-bhautoo](https://github.com/rohan-bhautoo)
-* LinkedIn: [@rohan-bhautoo](https://linkedin.com/in/rohan-bhautoo)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
